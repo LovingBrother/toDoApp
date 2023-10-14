@@ -1,3 +1,5 @@
 reserve.txt
 .env
+dotenv
+**/node_modules
 node_modules
